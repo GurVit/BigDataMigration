@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\EPPlus.dll
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\EPPlus.xml
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CopyComplete
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\Aspose.Cells.dll
+C:\Users\acer\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\Aspose.Cells.xml
